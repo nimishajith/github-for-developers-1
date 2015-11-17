@@ -4,3 +4,4 @@
 ** Bangalore **
 ** Reading **
 ** Paratha **
+**Favourite Color** : **Red**
